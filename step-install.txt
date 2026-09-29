@@ -7,7 +7,7 @@ git branch -M main
 git remote add origin https://github.com/olim-ariyaPc/test03.git
 git push -u origin main
 
-step config
+step config abc
 git config --global user.name "ac"
 git config --global user.email "ariya@gmail.com"
 
